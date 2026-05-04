@@ -1,0 +1,10 @@
+{
+  "bot_id": "tbn-bot-caba0e22ddc907d6",
+  "name": "adambot",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsSPQClOl2mUgCXcpQxRW\nboi3B5mzxR4qb8aW4/4aih6bqYutZSZUTP3OcDZllsDLunLbQeFlI2+/GUG46Z4l\nqLnrwVkDBGYr/N+zmFNHrj5OKT1nKgi8jZ2CJKhVmq+uT+W0jp+0uuw/47/76H0d\niy5uh3it6j+lIHUhc1xovs3L2L4TrHqD+3r6cJ7DHuLuKphIHgTu5OCUitA9hgOn\nFYJZsVCwwpdZBCbo6G0zl4bY7XBmPeSfNwEhxeoWuQ68Ot9++9d1fTYZAX5Uk6ei\ngpN2NHE16AeIFmqDF2ZP+LEPmOqgjFxYXDR/OyrldPc5SF5OVIDG1TfoXS87NwSo\nCQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "cert_level": "STANDARD",
+  "created_at": "2026-05-03T15:56:28.243074+00:00",
+  "tbn_version": "0.1.0",
+  "purpose": "",
+  "capabilities": []
+}
