@@ -1,0 +1,10 @@
+{
+  "bot_id": "tbn-bot-53baff3d76673d5c",
+  "name": "alhabot",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3U21Av1l3wbc6Q/dlD3F\nkq4fJC4jRKPkDWGHAm5xFgY9Mn/N33ah1cxx2Al7yq5Ruk16ms7y6gYVnJs4RU0O\n2HnlbCUqtUWZJ2R3aHF9os1/UrKDKQhwKFr/zg3xUIpAXtZbKaEoQXcPdCF9uup+\nRWmmTkm6/kyXJoBRDsg7ohz3Cj82iFxpUuv/4VRA45ve8b/T49g3CiOPoJhtMfwd\nC0zsr96uZ/f9ZVmVobdNJ9ZpujB2pTWNkE/X7PZTBMn/zUhXD5L4N4BvoYMfgTMM\nU2K1YGVX/9nBuCLyiZs6U2Q4rjgKmti5EgHYSWGQ3r3OrQ6N7Bgw+PlTX6sLePiF\n3wIDAQAB\n-----END PUBLIC KEY-----\n",
+  "cert_level": "STANDARD",
+  "created_at": "2026-05-03T13:26:28.044353+00:00",
+  "tbn_version": "0.1.0",
+  "purpose": "",
+  "capabilities": []
+}
