@@ -1,0 +1,10 @@
+{
+  "bot_id": "tbn-bot-41325ddaf78a7b1f",
+  "name": "stevebot",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArkRFdM7XNkUG4AjNw3qs\nOEPkdXxFxFrtKVBXvCUyFnlSaVDqOirBbf5M+gj7rpqH6sqfvrUJmgK8YfwIym/g\n1lTihrqPSsmkX4z79zLhlv/j8J3agJhFcNW3gGX/6plFJjFWWd3o1if/+yyi+Rq4\n5t/3ymzx5vB92WobGwKBx7PLEj6MHYdX5mDqI3OK8toi1EpCckiogiP76GHuzd6R\nLBOl0vwWr0Z61rBk9mTTr0B4fMrALQ37WHTpmIlahhmyQ30m0QrHuPukzgNuzUiJ\npS9NaJejceBy8tGle8zKt5F4IanvZ0QNQ3vdWRwXcF6pZcKXeOdUxd4BxSrZZ3Ty\nWwIDAQAB\n-----END PUBLIC KEY-----\n",
+  "cert_level": "STANDARD",
+  "created_at": "2026-05-03T15:56:05.598931+00:00",
+  "tbn_version": "0.1.0",
+  "purpose": "",
+  "capabilities": []
+}
