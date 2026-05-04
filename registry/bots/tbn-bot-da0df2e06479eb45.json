@@ -1,0 +1,10 @@
+{
+  "bot_id": "tbn-bot-da0df2e06479eb45",
+  "name": "sandybot",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyJGwMfKQOxZEODXwGolc\ncZCnGjQjc+j1HWwe2NzVAhe7BNIabsvPhpsokpJKJZAgE46rcIUae/zfn8eJ0OLC\ntJesYabuPp7Hacagao6XVfJ8IJUIbJlkLFM2HypPlxQkLgYOh0zUmWDZCK15A0Rh\nd4Xj20Vy9cSpgGz5UagfuewrhZqc6TBwMkfdcgFiYenTVuTEcORPNaU72PTkU+H5\nU2c56ViOaSMIryVUvrH649v7XTwlHShpcrYGFY4xu93Ll+7XVwOkf1KL3j7BRJte\nFB52JQ0ZWx1EriSCUECQxwhwVm6EqQPZ4WEa54HwZ+gx+1+GskGT2GnpYRVabhBX\ntQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "cert_level": "STANDARD",
+  "created_at": "2026-05-03T16:03:16.513961+00:00",
+  "tbn_version": "0.1.0",
+  "purpose": "",
+  "capabilities": []
+}
