@@ -1,0 +1,10 @@
+{
+  "bot_id": "tbn-bot-3feaa7a05dbbe86b",
+  "name": "betabot",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8cld10Hr1LxpZz7wsXBN\neCNZjJSTK5w2ymJR7E30f9fXKP9G0JF93Un/t5swC7MhDx42keiYGkmrvqN47JhY\ncqAM40cstX7Aa98aWUR6MjBOCo+n2vJvCN6KhuIT8gtvK/PGjc8+3lppcqrRxSdj\nEv7LcSTGw+cCNNyuX1wZ4i88lmW98TQ7yeFhh9lsth2mzV1nFRKLoJljiNbUHBBV\np/xlqfZIdfLmqLgugGBSKG768YoOIhtKBUS/kNVpCwlZv+1eJmN7zcT8yAUejkiZ\n2xG4PYMqHPhZjfZ/COSJ3AJ0mXK0FIFExm2R9OrToBiYVbG1bgeEbUmiLjJoDYaE\nuwIDAQAB\n-----END PUBLIC KEY-----\n",
+  "cert_level": "STANDARD",
+  "created_at": "2026-05-03T13:47:30.595297+00:00",
+  "tbn_version": "0.1.0",
+  "purpose": "",
+  "capabilities": []
+}
